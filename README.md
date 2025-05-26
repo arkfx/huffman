@@ -45,7 +45,7 @@ huffman/
 - `bin/`: Armazena os arquivos objeto (`.o`) e os executáveis (`encoder`, `decoder`) gerados durante a compilação.
 - `include/`: Contém os arquivos de cabeçalho (`.h`) que definem as interfaces dos módulos do projeto.
 - `src/`: Contém os arquivos de código fonte (`.c`) com a implementação das funcionalidades.
-- `tests/`: Contém os arquivos de teste para garantir a corretude do código.
+- `tests/`: Contém os arquivos de teste para garantir a correta execução do algoritmo de Huffman
 
 ## Como Testar o Projeto
 
